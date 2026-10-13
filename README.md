@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhamad Auff Bin Azani
+- 👋 Hi, my name is Auff
 - 👀 I’m interested in Cyber Security
 - :cowboy_hat_face: Working as Digital Forensic and Incident Response
 - 🌱 I’m currently learning everything XD
